@@ -1,0 +1,13 @@
+{
+  "name": "vit-bfhl-api",
+  "version": "1.0.0",
+  "description": "VIT BFHL REST API hosted on Vercel",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "lint": "echo \"Add your linter here\"",
+    "test": "node test/local-logic-check.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
